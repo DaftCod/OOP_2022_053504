@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "blkwtjs48i2OZlzvNjgYkCZEOKEIGLdP2tX/488OgMQuCQ32vVHUs1XilFptDAkmIVqf8w4Rb9vvV+MWNKRGUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolo1\\Desktop\\Laba2.v13\\Source\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolo1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kolo1\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\kolo1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\kolo1\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\kolo1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\kolo1\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
